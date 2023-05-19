@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+/* html,
+body,
+#root, */
+.app,
+.content {
+  height: 100%;
+  width: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+  position: relative;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+/* --fc-list-event-hover-bg-color :"red" */
+
+:root {
+  --fc-list-event-dot-width: 10px;
+  --fc-list-event-hover-bg-color: #3a507d !important;
+}
+
+.fc-theme-standard .fc-list-day-cushion {
+  background-color:  #626467 !important;
+}
+
+.ql-toolbar {
+  border-radius: 5px 5px 0 0;
+  border-color: #919191 !important;
+} 
+
+.ql-container {
+  border-radius: 0 0 5px 5px;
+  padding-bottom: 5%;
+  border-color: #919191 !important;
+}
+
+.MuiStack-root {
+  grid-column: span 4;
+}
+
+.MuiTextField-root {
+  width: 100%;
+}
+
+
+/* .css-1lg6gge .pro-sidebar-inner {
+  background: #c5d6dc!important;
+} */
+
+
+.css-18wo9z3-MuiButtonBase-root-MuiButton-root:hover{
+  background-color: #3a507d !important;
+}
+
+.css-bj166g-MuiPaper-root-MuiCard-root {
+  background: #3a5088 !important;
+}
+
+.css-y1sst-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #3a507d !important;
+}
+
+.css-34au5u-MuiButtonBase-root-MuiButton-root:hover{
+  background-color: #C5D6DC !important;
+}
+
+.css-bj166g-MuiPaper-root-MuiCard-root{
+  margin: 10px !important;
+}
+
+
+.css-75gcxd-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+  color: white !important;
+}
+
+.css-wxl1jl-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+  border-color: #E0E0E0 !important;
+}
+
+.ql-editor::placeholder {
+  color: red;
+}
+
+.css-y3n1jv-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+  border-color: #E0E0E0 !important;
+}
+
+.css-iiujvs-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+  border-color: #E0E0E0 !important;
+}
+
+
+.css-1qycsn2 {
+  max-height: 100% !important;
+}
+
+.css-1d635ff{
+  gap:3% !important
+}
+
+.css-19uch4z{
+  height: auto !important;
+}
+
+.css-1l8icbj {
+  padding-left: 5% !important;
+}
+
+.ql-blank::before{
+  color: gray !important;
+}

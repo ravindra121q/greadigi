@@ -1,0 +1,13 @@
+.Section-list {
+    max-width: 800px;
+    margin:  auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.list {
+    margin-left: 28%;
+    /* text-align: center; */
+    color: black;
+}

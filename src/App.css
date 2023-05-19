@@ -1,0 +1,36 @@
+.content{
+  overflow: auto;
+  padding-bottom: 1.5%;
+}
+
+.Upload {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 1em;
+}
+
+Button:hover {
+  background-color: #3a507d !important;
+}
+
+.css-oxf95d-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+  color: #2555cf !important;
+}
+
+.css-oxf95d-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+  color: #2555cf !important;
+}
+
+.css-modn6t-MuiInputBase-root-MuiInput-root:after {
+  border-bottom: 2px solid #0b43d1 !important;
+}
+
+
+
+
+
+
+
+
+
+
